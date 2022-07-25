@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">Junior AI developer from Egypt</h3>
 
-- I’m 4th year student who interested in SW/Data Science/Machine Learning and deep learning. Seeking for improving my skills in an organization that has a dynamic challenging environment and that provides its employees continuous education and development, and through which I can establish an enjoyable career for myself and help the company.
+- I’m interested in SW/Data Science/Machine Learning and deep learning. Seeking for improving my skills in an organization that has a dynamic challenging environment and that provides its employees continuous education and development, and through which I can establish an enjoyable career for myself and help the company.
 - 🔭 I’m currently working on **Emotion recognition using voice and facial expressions.**
 
 - 🌱 I’m currently learning **Data Science/Machine Learning and deep learning**
